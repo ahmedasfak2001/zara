@@ -1,0 +1,2 @@
+# zara
+A desktop assistant.
