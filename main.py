@@ -70,7 +70,7 @@ def pdf_reader():
 
 # to wish
 def wish():
-    user_name = 'asfak'
+    user_name = 'username'
     hour = int(datetime.datetime.now().hour)
     tt = time.strftime("%I:%M %p")
 
